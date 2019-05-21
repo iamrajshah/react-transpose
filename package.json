@@ -2,7 +2,7 @@
   "name": "transpose",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamrajshah.github.io/react-transpose/",
+  "homepage": "https://iamrajshah.github.io/react-transpose",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
