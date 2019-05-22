@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-transpose/static/css/main.5f914430.chunk.css",
+    "main.js": "/react-transpose/static/js/main.d5658e9f.chunk.js",
+    "main.js.map": "/react-transpose/static/js/main.d5658e9f.chunk.js.map",
+    "runtime~main.js": "/react-transpose/static/js/runtime~main.e2e5d51b.js",
+    "runtime~main.js.map": "/react-transpose/static/js/runtime~main.e2e5d51b.js.map",
+    "static/css/2.df9ef6f4.chunk.css": "/react-transpose/static/css/2.df9ef6f4.chunk.css",
+    "static/js/2.2e0dbe96.chunk.js": "/react-transpose/static/js/2.2e0dbe96.chunk.js",
+    "static/js/2.2e0dbe96.chunk.js.map": "/react-transpose/static/js/2.2e0dbe96.chunk.js.map",
+    "index.html": "/react-transpose/index.html",
+    "precache-manifest.953e3dbb326e0048a1b2ce2f514d2cb0.js": "/react-transpose/precache-manifest.953e3dbb326e0048a1b2ce2f514d2cb0.js",
+    "service-worker.js": "/react-transpose/service-worker.js",
+    "static/css/2.df9ef6f4.chunk.css.map": "/react-transpose/static/css/2.df9ef6f4.chunk.css.map",
+    "static/css/main.5f914430.chunk.css.map": "/react-transpose/static/css/main.5f914430.chunk.css.map"
+  }
+}
